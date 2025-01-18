@@ -1,2 +1,2 @@
 # llm-zoomcamp
-Course walkthrough: Large Language Models Zoomcamp  (by DataTalksClub)
+Course walkthrough: Large Language Models Zoomcamp  (by DataTalksClub).
